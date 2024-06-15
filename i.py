@@ -1,1 +1,2 @@
-print("hahahha")
+print ("Only a fool makes a click...")
+
