@@ -1,10 +1,10 @@
 const display = document.getElementbyID("display");
 
 function appendToDIsplay(input){
-    display.avlue += input;
+    display.value += input;
 }
 
-funtion clearDisplay(){
+function clearDisplay(){
     display.value = "";
 }
 
