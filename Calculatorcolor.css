@@ -54,3 +54,14 @@ button:active{
 .operator-btn:active{
     background-color: hsl(39, 100%, 75%);
 }
+a:link{
+    background-color: hsl(39, 100%, 65%);
+    font-family: 'Franklin Gothic Medium'
+    width: 100%;
+    padding: 20px;
+    font-size: 0.75rem;
+    text-align: left;
+    border: none;
+    
+    color :white;
+}
